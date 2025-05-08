@@ -14,14 +14,14 @@ try {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sabay Tinh Skincare</title>
+    <title>Skincare Information</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
     <div class="container mt-5">
         <div class="d-flex justify-content-between align-items-center mb-4">
-            <h1 class="text-primary">Sabay Tinh Skincare</h1>
+            <h1 class="text-primary">Skincare Information</h1>
             <a href="create.php" class="btn btn-success">
                 <i class="fas fa-plus"></i> Add New Item
             </a>
